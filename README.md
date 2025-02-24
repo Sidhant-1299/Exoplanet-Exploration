@@ -4,7 +4,8 @@
 
 ## Overview
 
-This project explores a dataset of exoplanets with a focus on understanding their habitability, planetary characteristics, and the methods used for their discovery. The analysis involves data cleaning, feature engineering, and visualization to draw insights about exoplanets and their potential for supporting life.
+This project explores a dataset of exoplanets with a focus on understanding their habitability, planetary characteristics, and the methods used for their discovery. The analysis involves data cleaning, feature engineering, and visualization to draw insights about exoplanets and their potential for supporting life.\
+[GoogleColab](https://colab.research.google.com/drive/1fHOAc_JCGSP-ko8APdE92E-1pFnAHGH0?usp=sharing)
 
 ## Contents
 
